@@ -2,6 +2,16 @@
 
 This repository contains a hybrid recommender system that combines content-based and collaborative filtering techniques to provide movie recommendations. 
 
+## Dataset
+
+To use this code, you will need to download the MovieLens dataset from Kaggle. You can obtain the dataset by following these steps:
+
+1. Visit the [MovieLens dataset page on Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset).
+
+2. Click on the "Download" button to download the dataset files.
+
+3. Extract the downloaded files and place them in the `data/` directory of this repository.
+
 ## Getting Started
 
 To use this recommender system, you'll need to follow these steps:
